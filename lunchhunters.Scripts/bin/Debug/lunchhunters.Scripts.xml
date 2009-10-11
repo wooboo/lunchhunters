@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>lunchhunters.Scripts</name>
+    </assembly>
+    <members>
+        <member name="T:jQueryFunctions.StringChain">
+            <summary>
+            Simple, chainable string builder wrapper.
+            </summary>
+        </member>
+        <member name="T:jQueryFunctions.FunctionContext">
+            <summary>
+            Base class for argument wrappers of dynamic function targets called via Create methods.
+            </summary>
+        </member>
+        <member name="M:jQueryFunctions.FunctionContext.Create(System.Type,System.String)">
+            <summary>
+            Creates a dynamic function targetting a static method from type with signature:
+            public static anyReturnTypeOrVoid Method(OftenDOMElement handlerThis, object[] arguments) 
+            </summary>
+        </member>
+        <member name="M:jQueryFunctions.FunctionContext.CreateEmpty(System.Type,System.String)">
+            <summary>
+            Creates a dynamic function targetting a static method that does not pass handler arguments.
+            </summary>
+        </member>
+        <member name="M:jQueryFunctions.FunctionContext.CreateForContext(System.Type,System.String,System.Type)">
+            <summary>
+            Creates a dynamic function targetting a static method from type with signature but wraps arguments:
+            public static anyReturnTypeOrVoid Method(OftenDOMElement handlerThis, FunctionContext context)
+            </summary>
+        </member>
+        <member name="M:jQueryFunctions.FunctionContext.CreateWithArguments(System.Type,System.String,System.String)">
+            <summary>
+            Creates a dynamic function like others, but allows passing arguments in addition to the standard signature.
+            The arguments are passed in the function body literally, so must be in the global scope or fully qualified.
+            </summary>
+        </member>
+        <member name="M:jQueryFunctions.FunctionContext.CreateWithArgumentsForContext(System.Type,System.String,System.String,System.Type)">
+            <summary>
+            Creates a dynamic function like others, with an additional literal argument list and wrapped arguments.
+            </summary>
+        </member>
+        <member name="T:Global">
+            <summary>
+            Interface of the jQuery method exposed as members of an extensible static class whose memebers will be global.
+            </summary>
+        </member>
+        <member name="T:jQuery.fn">
+            <summary>
+            Interface of the "static" jQuery method members. References render to jQuery.fn based on namespace.
+            </summary>
+        </member>
+        <member name="T:jQuery.fx">
+            <summary>
+            Provides access to the jQuery.fx.off global effects override.
+            </summary>
+        </member>
+        <member name="T:jQuery.Elements">
+            <summary>
+            Interface of the jQuery result object.
+            </summary>
+        </member>
+        <member name="T:jQueryInterfaces.Position">
+            <summary>
+            Interface of the jQuery position object.
+            </summary>
+        </member>
+        <member name="T:jQueryInterfaces.EventState">
+            <summary>
+            Inteface of the jQuery Event object.
+            </summary>
+        </member>
+        <member name="T:jQueryInterfaces.AjaxOptions">
+            <summary>
+            Inteface of the jQuery AJAX options object.
+            </summary>
+        </member>
+        <member name="T:jQueryInterfaces.Support">
+            <summary>
+            Inteface of the jQuery support object.
+            </summary>
+        </member>
+    </members>
+</doc>

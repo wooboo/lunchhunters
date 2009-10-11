@@ -1,0 +1,8 @@
+G:\Backup\Documents\Visual Studio 2008\Projects\lunchhunters\AspProviders\bin\Debug\AspProviders.dll
+G:\Backup\Documents\Visual Studio 2008\Projects\lunchhunters\AspProviders\bin\Debug\AspProviders.pdb
+G:\Backup\Documents\Visual Studio 2008\Projects\lunchhunters\AspProviders\bin\Debug\StorageClient.dll
+G:\Backup\Documents\Visual Studio 2008\Projects\lunchhunters\AspProviders\bin\Debug\StorageClient.pdb
+G:\Backup\Documents\Visual Studio 2008\Projects\lunchhunters\AspProviders\bin\Debug\StorageClient.xml
+G:\Backup\Documents\Visual Studio 2008\Projects\lunchhunters\AspProviders\obj\Debug\ResolveAssemblyReference.cache
+G:\Backup\Documents\Visual Studio 2008\Projects\lunchhunters\AspProviders\obj\Debug\AspProviders.dll
+G:\Backup\Documents\Visual Studio 2008\Projects\lunchhunters\AspProviders\obj\Debug\AspProviders.pdb

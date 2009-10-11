@@ -1,0 +1,5 @@
+G:\Backup\Documents\Visual Studio 2008\Projects\lunchhunters\StorageClient\bin\Debug\StorageClient.dll
+G:\Backup\Documents\Visual Studio 2008\Projects\lunchhunters\StorageClient\bin\Debug\StorageClient.pdb
+G:\Backup\Documents\Visual Studio 2008\Projects\lunchhunters\StorageClient\obj\Debug\ResolveAssemblyReference.cache
+G:\Backup\Documents\Visual Studio 2008\Projects\lunchhunters\StorageClient\obj\Debug\StorageClient.dll
+G:\Backup\Documents\Visual Studio 2008\Projects\lunchhunters\StorageClient\obj\Debug\StorageClient.pdb
