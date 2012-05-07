@@ -1,5 +1,0 @@
-C:\Users\Administrator\Documents\Visual Studio 2008\Projects\lunchhunters\MvcApplication1\bin\MvcApplication1.dll
-C:\Users\Administrator\Documents\Visual Studio 2008\Projects\lunchhunters\MvcApplication1\bin\MvcApplication1.pdb
-C:\Users\Administrator\Documents\Visual Studio 2008\Projects\lunchhunters\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Administrator\Documents\Visual Studio 2008\Projects\lunchhunters\MvcApplication1\obj\Debug\MvcApplication1.dll
-C:\Users\Administrator\Documents\Visual Studio 2008\Projects\lunchhunters\MvcApplication1\obj\Debug\MvcApplication1.pdb
